@@ -125,6 +125,7 @@ function WeatherCard() {
             <h1 className="text-5xl font-bold mb-1">{weather.temprature}°C</h1>
             <p className="text-2xl font-medium">{weather.location}</p>
           </div>
+          
 
           <div className="flex justify-around items-center mt-8">
             <div className="flex flex-col items-center">
